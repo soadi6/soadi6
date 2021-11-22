@@ -1,4 +1,4 @@
-### Hi there 👋
+#
 
 <!--
 **soadi6/soadi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
+git clone https://github.com/username/username.github.io
+
+git clone https://github.com/username/username.github.io
